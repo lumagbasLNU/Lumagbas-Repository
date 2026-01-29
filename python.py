@@ -1,3 +1,3 @@
 print("hello word")
 
-print("")
+https://github.com/lumagbasLNU/Lumagbas-Repository/blob/main/python.py
